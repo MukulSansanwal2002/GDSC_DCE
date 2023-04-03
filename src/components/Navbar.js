@@ -51,7 +51,7 @@ return(
                  <NavLink className="nav-link"  to="/events">Events</NavLink>        
            </li>
           <li className="nav-item">
-                 <NavLink className='nav-link'  to="/hackathon">Hackathon</NavLink> 
+                 <NavLink className='nav-link'  to="http://hackorelay.netlify.app">Hackathon</NavLink> 
           </li> 
         </ul>
               
